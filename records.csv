@@ -1,4 +1,4 @@
-Date,Time ,Coffe Costs,Hot Chocolate Costs,Tea Costs,Coffee Sales,Hot Chocolate Sales,Tea Sales,Total Sales,Manager,Employees
+Date,Time,Coffe Costs,Hot Chocolate Costs,Tea Costs,Coffee Sales,Hot Chocolate Sales,Tea Sales,Total Sales,Manager,Employees
 03/10/24,7:00 AM,$9.00,$5.00,$2.00,$30.00,$20.00,$12.00,$62.00,Walter,SarahAliceWilliam
 ,7:15 AM,$12.00,$11.00,$2.50,$40.00,$44.00,$15.00,$99.00,Walter,SarahAliceWilliam
 ,7:30 AM,$22.50,$13.00,$1.00,$75.00,$52.00,$6.00,$133.00,Walter,SarahAliceWilliam
@@ -159,38 +159,6 @@ Date,Time ,Coffe Costs,Hot Chocolate Costs,Tea Costs,Coffee Sales,Hot Chocolate 
 ,2:15 PM,$10.50,$3.00,$2.00,$35.00,$12.00,$12.00,$59.00,Walter,JerrySarahJake
 ,2:30 PM,$24.00,$6.00,$3.50,$80.00,$24.00,$21.00,$125.00,Walter,JerrySarahJake
 ,2:45 PM,$16.50,$9.00,$2.00,$55.00,$36.00,$12.00,$103.00,Walter,JerrySarahJake
-03/14/24,7:00 AM,$28.50,$4.00,$0.00,$95.00,$16.00,$0.00,$111.00,June,AliceWilliamJames
-,7:15 AM,$33.00,$3.00,$0.00,$110.00,$12.00,$0.00,$122.00,June,AliceWilliamJames
-,7:30 AM,$28.50,$6.00,$0.00,$95.00,$24.00,$0.00,$119.00,June,AliceWilliamJames
-,7:45 AM,$31.50,$2.00,$0.00,$105.00,$8.00,$0.00,$113.00,June,AliceWilliamJames
-,8:00 AM,$13.50,$6.00,$0.50,$45.00,$24.00,$3.00,$72.00,June,JerryAliceWilliamJames
-,8:15 AM,$24.00,$3.00,$1.00,$80.00,$12.00,$6.00,$98.00,June,JerryAliceWilliamJames
-,8:30 AM,$36.00,$5.00,$0.00,$120.00,$20.00,$0.00,$140.00,June,JerryAliceWilliamJames
-,8:45 AM,$28.50,$3.00,$2.50,$95.00,$12.00,$15.00,$122.00,June,JerryAliceWilliamJames
-,9:00 AM,$16.50,$2.00,$1.50,$55.00,$8.00,$9.00,$72.00,June,JerryAliceWilliamJames
-,9:15 AM,$18.00,$7.00,$0.50,$60.00,$28.00,$3.00,$91.00,June,JerryAliceWilliamJames
-,9:30 AM,$18.00,$2.00,$1.00,$60.00,$8.00,$6.00,$74.00,June,JerryAliceWilliamJames
-,9:45 AM,$25.50,$3.00,$2.50,$85.00,$12.00,$15.00,$112.00,June,JerryAliceWilliamJames
-,10:00 AM,$33.00,$5.00,$3.50,$110.00,$20.00,$11.00,$141.00,June,JerryAliceWilliamJames
-,10:15 AM,$28.50,$6.00,$3.00,$95.00,$24.00,$18.00,$137.00,June,JerryAliceWilliamJames
-,10:30 AM,$18.00,$6.00,$0.50,$60.00,$24.00,$3.00,$87.00,June,JerryAliceWilliamJames
-,10:45 AM,$13.50,$9.00,$1.50,$45.00,$36.00,$9.00,$90.00,June,JerryAliceWilliamJames
-,11:00 AM,$13.50,$6.00,$2.00,$45.00,$24.00,$12.00,$81.00,Walter,JerryAliceWilliamJames
-,11:15 AM,$12.00,$7.00,$2.00,$40.00,$28.00,$12.00,$80.00,Walter,JerryAliceWilliamJames
-,11:30 AM,$18.00,$9.00,$3.50,$60.00,$36.00,$21.00,$117.00,Walter,JerryAliceWilliamJames
-,11:45 AM,$25.50,$7.00,$1.50,$85.00,$28.00,$9.00,$122.00,Walter,JerryAliceWilliamJames
-,12:00 PM,$30.00,$8.00,$2.50,$100.00,$32.00,$15.00,$147.00,Walter,JerryAliceWilliamJames
-,12:15 PM,$24.00,$8.00,$1.50,$80.00,$32.00,$9.00,$121.00,Walter,JerryAliceWilliamJames
-,12:30 PM,$34.50,$7.00,$1.00,$115.00,$28.00,$6.00,$149.00,Walter,JerryAliceWilliamJames
-,12:45 PM,$31.50,$3.00,$2.00,$105.00,$12.00,$12.00,$129.00,Walter,JerryAliceWilliamJames
-,1:00 PM,$24.00,$12.00,$2.50,$80.00,$48.00,$15.00,$143.00,Walter,JerrySarahAliceJames
-,1:15 PM,$19.50,$10.00,$3.00,$65.00,$40.00,$18.00,$123.00,Walter,JerrySarahAliceJames
-,1:30 PM,$24.00,$6.00,$2.00,$80.00,$24.00,$12.00,$116.00,Walter,JerrySarahAliceJames
-,1:45 PM,$15.00,$3.00,$4.50,$50.00,$12.00,$27.00,$89.00,Walter,JerrySarahAliceJames
-,2:00 PM,$15.00,$3.00,$2.00,$50.00,$12.00,$12.00,$74.00,Walter,SarahAliceJames
-,2:15 PM,$25.50,$13.00,$2.50,$85.00,$52.00,$15.00,$152.00,Walter,SarahAliceJames
-,2:30 PM,$25.50,$4.00,$2.00,$85.00,$16.00,$12.00,$113.00,Walter,SarahAliceJames
-,2:45 PM,$19.50,$8.00,$1.50,$65.00,$32.00,$9.00,$106.00,Walter,SarahAliceJames
 03/15/24,7:00 AM,$25.50,$3.00,$2.50,$85.00,$12.00,$15.00,$112.00,June,JerrySarahWilliamJayne
 ,7:15 AM,$25.50,$6.00,$1.50,$85.00,$24.00,$9.00,$118.00,June,JerrySarahWilliamJayne
 ,7:30 AM,$27.00,$6.00,$2.00,$90.00,$24.00,$12.00,$126.00,June,JerrySarahWilliamJayne
